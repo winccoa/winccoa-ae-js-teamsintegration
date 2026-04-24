@@ -1,0 +1,15 @@
+{
+  "name": "mytest",
+  "version": "1.0.0",
+  "description": "NodeJS Hackaton",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MAK",
+  "license": "ISC",
+  "dependencies": {
+    "winccoa-manager": "file:C:/Siemens/Automation/WinCC_OA/3.20/javascript/winccoa-manager"
+  }
+}

@@ -1,0 +1,19 @@
+QComboBox {
+    border: none;
+}
+
+QSpinBox {
+    border: none;
+}
+
+QTableView {
+    border: none;
+}
+
+QTableView[type="demo"] QHeaderView::section {
+    background-color: rgb(70,70,89);
+}
+
+QTextEdit {
+    border: none;
+}

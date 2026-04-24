@@ -1,0 +1,18 @@
+# ascii dump of database
+
+# DpType
+TypeName
+Teams.Teams	1#1
+	Config	1#2
+		WebhookUrl	25#3
+	Message	1#4
+		color	25#5
+		title	25#6
+		text	25#7
+		summary	25#8
+		send	23#9
+
+# Datapoint/DpId
+DpName	TypeName	ID
+Teams	Teams	523
+# ascii dump of database

@@ -1,0 +1,19 @@
+{
+  "RepoName": "WinCCOA Teams Integration Example",
+  "Keywords": [
+    "integration",
+    "microsoft-teams",
+    "webhook",
+    "javascript",
+    "ui"
+  ],
+  "Version": "1.0.0",
+  "Description": "Application example for integrating Microsoft Teams with WinCC OA. It enables sending alarms, events, and custom messages from WinCC OA to Microsoft Teams channels or chats via webhook-based Workflows templates.",
+  "OaVersions": "^3.20.00",
+  "Subprojects": [
+    {
+      "Name": "WinCCOATeams",
+      "Description": "Subproject for Microsoft Teams integration including panels, colorDB, datapoint import, stylesheet, and JavaScript manager."
+    }
+  ]
+}
