@@ -12,6 +12,8 @@ By leveraging **incoming webhooks** and **Power Automate (Workflows)**, the solu
 With minimal setup effort, operators and engineers can stay continuously informed and respond faster to critical system events.
 
 **Detect → Notify → React**
+<img width="754" height="424" alt="Teams-GIF" src="https://github.com/user-attachments/assets/acab5e96-0909-418d-a16a-f23c6b2c787d" />
+
 
 ---
 
@@ -66,11 +68,11 @@ WinCC OA → Webhook (Power Automate / Workflows) → Microsoft Teams
 ## Project Structure
 
 WinCCOATeams/
-├── colorDB/        # Message color definitions  
-├── dplist/         # Datapoint type import  
-├── javascript/     # Webhook handling logic  
-├── panels/         # UI test panel  
-├── config/         # Configuration files  
+├── colorDB/        # Contains the Message color definitions  
+├── dplist/         # Contains the dplist to be imported  
+├── javascript/     # Contains the webhook handling logic  
+├── panels/         # Contains the UI test panel  
+├── config/         # Contains the Configuration files  
 
 ---
 
@@ -97,7 +99,9 @@ WinCCOATeams/
 2. The message is triggered by setting a boolean flag (`send = TRUE`)  
 3. The JavaScript Manager processes the request  
 4. A webhook call is sent to Microsoft Teams  
+
 5. The message appears instantly in the configured Teams destination  
+<img width="754" height="424" alt="Teams-GIF" src="https://github.com/user-attachments/assets/4fe9db8b-4bfd-4aab-9e5b-1402505dd5ce" />
 
 ---
 
