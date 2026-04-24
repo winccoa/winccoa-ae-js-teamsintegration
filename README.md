@@ -12,8 +12,7 @@ By leveraging **incoming webhooks** and **Power Automate (Workflows)**, the solu
 With minimal setup effort, operators and engineers can stay continuously informed and respond faster to critical system events.
 
 **Detect → Notify → React**
-<img width="754" height="424" alt="Teams-GIF" src="https://github.com/user-attachments/assets/acab5e96-0909-418d-a16a-f23c6b2c787d" />
-
+<img width="754" height="424" alt="Teams" src="https://github.com/user-attachments/assets/8ff5782b-5b4e-4be2-8269-78016ca78a51" />
 
 ---
 
