@@ -1,4 +1,4 @@
-# WinCC OA Microsoft Teams Integration Example  
+# WinCC OA Microsoft Teams Integration Application Example  
 **Seamless Alarm & Event Notifications from WinCC OA to Microsoft Teams**
 
 ---
