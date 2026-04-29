@@ -27,9 +27,7 @@ SIEMENS' warranty obligations are set forth in your agreement with SIEMENS. SIEM
 Please note the following license conditions and copyright notices applicable to Open Source Software and/or other components (or parts thereof):
 
 | Component | Open Source Software [Yes/No] | Acknowledgements/Comment | License conditions and copyright notices |
-|-----------|------------------------------|-------------------------|----------------------------------------|
-| cppcheck - 1.87 | Yes | | [LICENSE AND COPYRIGHT INFORMATION FOR COMPONENT cppcheck - 1.87](#compDetail_171492) |
-| lizard - 1.14.7 | Yes | | [LICENSE AND COPYRIGHT INFORMATION FOR COMPONENT lizard - 1.14.7](#compDetail_171493) |
-| picojson - 1.3.0 | Yes | | [LICENSE AND COPYRIGHT INFORMATION FOR COMPONENT picojson - 1.3.0](#compDetail_171490) |
-| simplecpp - master d4bc1834ec5c2dc3f0143657275252aeaecc8436 | Yes | | [LICENSE AND COPYRIGHT INFORMATION FOR COMPONENT simplecpp - master d4bc1834ec5c2dc3f0143657275252aeaecc8436](#compDetail_171491) |
-| TinyXML2 - 6.2.0 | Yes | | [LICENSE AND COPYRIGHT INFORMATION FOR COMPONENT TinyXML2 - 6.2.0](#compDetail_26412) |
+|----------|------------------------------|--------------------------|------------------------------------------|
+| Node.js V20.17.0 | Yes | MIT | https://nodejs.org/ |
+| Microsoft Teams (v26043.2016.4478.2773, Microsoft 365 – Desktop/Web, last checked 31/03/2026) | No | Microsoft collaboration platform used for message delivery | [Microsoft Software License Terms - Microsoft Support](https://support.microsoft.com/en-us/office/microsoft-software-license-terms-5476247d-05e5-4ac7-b77c-1b8cd229e91a?utm_source=chatgpt.com) |
+| Workflows App in Teams | No | Used to create webhook workflows for receiving alerts from WinCC OA | https://learn.microsoft.com/en-us/power-platform/admin/about-teams-environment?branch=teams-preview#licensing-and-restrictions |
