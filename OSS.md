@@ -28,10 +28,10 @@ Please note the following license conditions and copyright notices applicable to
 
 | Component | Open Source Software [Yes/No] | Acknowledgements/Comment | License conditions and copyright notices |
 |----------|------------------------------|--------------------------|------------------------------------------|
-| ini ^5.0.0                | Yes                          | INI encoder/decoder for Node.js        | https://github.com/npm/ini/blob/main/LICENSE |
-| cbor-x ^1.6.0             | Yes                          | CBOR implementation                    | https://github.com/kriszyp/cbor-x/blob/master/LICENSE |
-| app-module-path ^2.2.0    | Yes                          | Extend Node.js module resolution paths | https://github.com/patrick-steele-idem/app-module-path-node/blob/master/LICENSE |
-| Microsoft Teams (v26043.2016.4478.2773, Microsoft 365 – Desktop/Web, last checked 31/03/2026) | No | Microsoft collaboration platform used for message delivery | [Microsoft Software License Terms - Microsoft Support](https://support.microsoft.com/en-us/office/microsoft-software-license-terms-5476247d-05e5-4ac7-b77c-1b8cd229e91a?utm_source=chatgpt.com) |
-| Workflows App in Teams | No | Used to create webhook workflows for receiving alerts from WinCC OA | https://learn.microsoft.com/en-us/power-platform/admin/about-teams-environment?branch=teams-preview#licensing-and-restrictions |
+| ini ^5.0.0                | Yes                          | ISC         | https://github.com/npm/ini/blob/main/LICENSE |
+| cbor-x ^1.6.0             | Yes                          | MIT                     | https://github.com/kriszyp/cbor-x/blob/master/LICENSE |
+| app-module-path ^2.2.0    | Yes                          | BSD-2-Clause  | https://github.com/patrick-steele-idem/app-module-path-node/blob/master/LICENSE |
+| Microsoft Teams (v26043.2016.4478.2773, Microsoft 365 – Desktop/Web, last checked 31/03/2026) | No | Microsoft Software License Terms  | [Microsoft Software License Terms - Microsoft Support](https://support.microsoft.com/en-us/office/microsoft-software-license-terms-5476247d-05e5-4ac7-b77c-1b8cd229e91a?utm_source=chatgpt.com) |
+| Workflows App in Teams | No | Microsoft Software License Term| https://learn.microsoft.com/en-us/power-platform/admin/about-teams-environment?branch=teams-preview#licensing-and-restrictions |
 
 
