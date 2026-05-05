@@ -50,7 +50,7 @@ WinCC OA Microsoft Teams Integration
 ---
 <img width="754" height="424" alt="Teams-GIF" src="https://github.com/user-attachments/assets/4fe9db8b-4bfd-4aab-9e5b-1402505dd5ce" />
 
-*Figure 2: Example Notification in Microsoft Teams*
+*Video 01 - Microsoft Teams: Alarm & Event Notification Demo*
 
 ## Conclusion  
 This integration provides a straightforward way to connect WinCC OA with Microsoft Teams and improve operational communication.  
@@ -59,11 +59,15 @@ By sending notifications directly to collaboration tools, teams can react faster
 
 ---
 
-## Downloads  
-- WinCC OA Documentation: WinCCOATeamsExample.pdf  
-- Example Project: WinCCOATeams.zip  
+## Content  
 
----
+This repository includes the project folder, documentation, and legal information of the application example, organized as follows:
 
-## Keywords  
-WinCC OA, Microsoft Teams, SCADA alerts, webhook integration, Power Automate, alarm notification, industrial communication.
+- **WinCCOATeams/**: Application example subproject for Microsoft Teams integration, including panels, color database, datapoint configuration, stylesheet, and JavaScript manager  
+- **WinCCOATeamsExample.pdf**: Documentation covering implementation, installation, and usage  
+- **package.winccoa.json**: Package definition file containing metadata, versioning, keywords, and subproject configuration for deployment  
+- **OSS.md**: Open Source Software information  
+- **LEGAL_INFO.md**: Legal information  
+- **LICENSE.md**: License information  
+- **README.md**: This file   
+
