@@ -31,25 +31,26 @@ WinCC OA Microsoft Teams Integration
 ## Key Features  
 
 ### Direct Notification Integration  
-Send WinCC OA alarms and messages to Microsoft Teams  
-Support for both channels and group chats  
-Integration via Power Automate webhook workflows  
-Reliable message delivery using standard WinCC OA mechanisms  
+- Send WinCC OA alarms and messages to Microsoft Teams  
+- Support for both channels and group chats  
+- Integration via Power Automate webhook workflows  
+- Reliable message delivery using standard WinCC OA mechanisms  
 
 ### Simple Configuration  
-Webhook URL stored in a dedicated datapoint  
-Message triggering via a single boolean flag  
-Structured datapoint type for configuration and messaging  
-Easy setup using standard PARA and dplist import  
+- Webhook URL stored in a dedicated datapoint  
+- Message triggering via a single boolean flag  
+- Structured datapoint type for configuration and messaging  
+- Easy setup using standard PARA and dplist import  
 
 ### Flexible Message Design  
-Custom title and message text  
-Predefined message colors (default, good, warning, attention, etc.)  
-Clear visual representation in Microsoft Teams  
+- Custom title and message text  
+- Predefined message colors (default, good, warning, attention, etc.)  
+- Clear visual representation in Microsoft Teams  
 
 ---
 <img width="754" height="424" alt="Teams-GIF" src="https://github.com/user-attachments/assets/4fe9db8b-4bfd-4aab-9e5b-1402505dd5ce" />
 
+*Figure 2: Example Notification in Microsoft Teams*
 
 ## Conclusion  
 This integration provides a straightforward way to connect WinCC OA with Microsoft Teams and improve operational communication.  
@@ -59,14 +60,10 @@ By sending notifications directly to collaboration tools, teams can react faster
 ---
 
 ## Downloads  
-WinCC OA Documentation: WinCCOATeamsExample.pdf  
-Example Project: WinCCOATeams.zip  
+- WinCC OA Documentation: WinCCOATeamsExample.pdf  
+- Example Project: WinCCOATeams.zip  
 
 ---
 
 ## Keywords  
 WinCC OA, Microsoft Teams, SCADA alerts, webhook integration, Power Automate, alarm notification, industrial communication.
-
-
-
-
